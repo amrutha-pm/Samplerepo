@@ -1,1 +1,2 @@
 My second file to git has been changed to see the change by using diff command 
+Am doing question 12
