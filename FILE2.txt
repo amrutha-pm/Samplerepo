@@ -1,1 +1,1 @@
-My second file to git
+My second file to git has been changed to see the change by using diff command 
